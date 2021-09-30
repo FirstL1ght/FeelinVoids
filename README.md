@@ -1,7 +1,6 @@
 ### Hi there, I'm FeelinVoids_ 👋
 
 - 🔭 I’m currently working on my Minecraft server **OUTBREAK.SPACE** [![Discord](https://img.shields.io/discord/767405329549885440.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/fhgkRff)
-
 - ⌨ Languages: Russian, English, Python, Java, HTML/CSS
 
 [![VK](https://img.shields.io/static/v1?message=VK&label=&logo=vk&logoColor=2787F5&color=ffffff&labelColor=ffffff)](https://vk.com/feelinvoids)
